@@ -1,0 +1,4 @@
+numpy
+opencv-python==4.9.0.80
+airsim==1.8.1
+
